@@ -4,13 +4,13 @@
 This project implements a simple GraphQL API using Graphene and Flask in Python. The API allows querying a basic dataset and returns data in a GraphQL format.
 
 ## Technologies Used
-Python 3.x: Programming language used for the application.
-Flask: A lightweight framework for building web applications in Python.
-Graphene: A library for building GraphQL APIs in Python.
-Flask-GraphQL: A Flask extension for integrating GraphQL with Flask.
+- Python 3.x: Programming language used for the application.
+- Flask: A lightweight framework for building web applications in Python.
+- Graphene: A library for building GraphQL APIs in Python.
+- Flask-GraphQL: A Flask extension for integrating GraphQL with Flask.
 ## Requirements
-Python 3.x or higher.
-pip for installing dependencies.
+- Python 3.x or higher.
+- pip for installing dependencies.
 ## Installation
 1. Clone the repository
 To get started, clone the repository to your local machine:
